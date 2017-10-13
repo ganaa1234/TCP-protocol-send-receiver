@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8DA82258-386D-42F2-9306-72CF99D83C31}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PCATTCP", "PCATTCP.vcxproj", "{5419D75D-52B7-47CA-BD1D-CB769A48E5E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5419D75D-52B7-47CA-BD1D-CB769A48E5E4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5419D75D-52B7-47CA-BD1D-CB769A48E5E4}.Debug|Win32.Build.0 = Debug|Win32
+		{5419D75D-52B7-47CA-BD1D-CB769A48E5E4}.Release|Win32.ActiveCfg = Release|Win32
+		{5419D75D-52B7-47CA-BD1D-CB769A48E5E4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
